@@ -1,0 +1,61 @@
+
+body {
+  background-color: #EEE;
+}
+#header {
+  background-color: #0000FF;
+  color: white;
+  text-align: center;
+  padding: 1px;
+}
+#container {
+  background-color: white;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#content{
+  padding: 10px;
+}
+#list {
+  width: 270px;
+  float: left;
+  background-color: white;
+  padding-left: 10px;
+
+
+}
+#list ol {
+  list-style-type: none;
+  text-align: center;
+  list-style-position: inside;
+}
+.selected {
+  text-align: center;
+}
+#list h3 {
+  text-align: center;
+  padding-left: 45px;
+
+}
+
+#pidigits {
+  width: 650px;
+  float: right;
+background-color: white;
+text-align: center;
+padding-right: 20px;
+}
+#pidigits p {
+  word-wrap: break-word;
+  text-align: left;
+
+}
+#footer {
+  clear:both;
+  text-align: right;
+  color: black;
+  padding: 1px;
+  background-color: #999;
+
+}

@@ -49,13 +49,33 @@ padding-right: 20px;
 #pidigits p {
   word-wrap: break-word;
   text-align: left;
+  text-indent: 25px;
 
 }
+
+#edigits {
+  background-color: white;
+  float:none;
+  border-style: none;
+   padding: 10px;
+  margin-left: 300px;
+  margin-top: 230px;
+
+  word-wrap: break-word;
+  text-align: center;
+}
+
+#edigits p {
+  text-align: left;
+}
+
 #footer {
   clear:both;
   text-align: right;
   color: black;
-  padding: 1px;
+  padding-right: 5px;
+  margin-left: 785px;
   background-color: #999;
+
 
 }
